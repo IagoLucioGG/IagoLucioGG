@@ -97,11 +97,6 @@ Sistemas (ADS)** e sempre estudando arquitetura e boas práticas.
 
 <div align="center">
 
-### Vamos conversar
-
-<!-- Depois adicionamos LinkedIn e contato aqui -->
-<img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-339933?style=for-the-badge" alt="open to work" />
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,50:2496ED,100:512BD4&height=110&section=footer" alt="footer" />
