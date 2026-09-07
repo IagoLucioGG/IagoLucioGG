@@ -80,21 +80,6 @@ Sistemas (ADS)** e sempre estudando arquitetura e boas práticas.
 
 ---
 
-## Métricas
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=IagoLucioGG&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=86400)](https://github.com/IagoLucioGG)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoLucioGG&layout=compact&hide_border=true&langs_count=8&theme=github_dark&cache_seconds=86400)](https://github.com/IagoLucioGG)
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoLucioGG&hide_border=true&area=true&color=512BD4&line=2496ED&point=ffffff&bg_color=0d1117" alt="activity graph" />
-
-</div>
-
----
-
 <div align="center">
 
 <br/><br/>
